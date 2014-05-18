@@ -1,0 +1,66 @@
+{
+    "ground": "Thomond Park", 
+    "capacity": 26500,
+    "manager": "Stuart Taylor",
+    "coach": "TBC",
+    "description": "Limerick Football Club is an association football club based in Limerick, Ireland. The club won the First Division championship of the League of Ireland in the 2012 season and thereby gained promotion to the Premier Division. The first Limerick Football Club was founded in 1937 and has had a number of guises through its history, known at different times as Limerick, Limerick United, Limerick City and Limerick 37. Each manifestation of the club has been the sole representative of senior football in Limerick city since 1937. Limerick won the League of Ireland title twice, in the 1959-60 and 1979-80 seasons, and the FAI Cup twice, in 1971 and 1982. They also won the League of Ireland Cup three times, 1975–76, 1992–93 and 2001-02. The club has competed in European competitions on six occasions, meeting such notable opponents as Real Madrid and Southampton.",
+    "id": "limerick",
+    "images": [
+        "img/teams/limerick.0.jpg", 
+        "img/teams/limerick.1.jpg",
+        "img/teams/limerick.2.jpg"
+    ],
+    "name": "Athlone Town FC",
+    "colors": {
+        "home": [
+            "blue",
+            "white"
+        ],
+        "away": [
+            "white",
+            "blue"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/limerick_kit1.gif",
+        "away": "img/teams/jerseys/limerick_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Barry Ryan(GK)",
+            "Shane Cusack(GK)",
+            "Ali Abass",
+            "Shaun Kelly",
+            "Mick Leahy",
+            "Tony Whitehead",
+            "Stephen Folan",
+            "Shane Costelloe",
+            "Robbie Williams",
+            "Patrick Nzuzi",
+            "Colm Murphy",
+            "Sam Oji",
+            "Paudie O'Connor"
+        ],
+        "midfielders": [
+            "Shane Tracy",
+            "Jason Hughes",
+            "Shane Duggan",
+            "Rory Gaffney",
+            "Stephen McGann",
+            "Barry Sheedy",
+            "James McGrath",
+            "Val Feeney",
+            "Danny Galbraith",
+            "Shane Walsh",
+            "Prince Agyemang"
+        ],
+        "attackers": [
+            "Tam McManus",
+            "Garbhan Coughlan",
+            "Darragh Rainsford",
+            "Craig Curran",
+            "Sean McSweeney",
+            "Ross Mann"
+        ]
+    }
+}

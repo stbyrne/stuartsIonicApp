@@ -1,0 +1,19 @@
+<ion-view title="Teams">
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+    <ion-list id="icons">
+      <!--<ion-item ng-repeat="team in teams" href="#/app/teams/{{team.id}}">
+        {{team.name}}
+      </ion-item>-->
+        <!--<div class="list">-->
+            <a class="item item-thumbnail-left" ng-repeat="team in teams" href="#/app/teams/{{team.id}}">
+              <img ng-src="{{team.imageUrl}}">
+              <h2>{{team.name}}</h2>
+              <p>{{team.nickname}}</p>
+            </a>
+        <!--</div>-->
+    </ion-list>
+  </ion-content>
+</ion-view>

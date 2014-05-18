@@ -1,0 +1,59 @@
+{
+    "ground": "Dalymount Park", 
+    "capacity": 4300,
+    "manager": "Owen Heary",
+    "coach": "Graham O'Hanlon",
+    "description": "Bohemian F.C. (Irish: Cumann Peile Bóithéamaigh), more commonly referred to as Bohemians, is a professional football club from Dublin, Ireland. Bohemians compete in the Premier Division of the League of Ireland, and are the oldest Irish league club in continuous existence.",
+    "id": "bohs",
+    "images": [
+        "img/teams/bohs.0.jpg", 
+        "img/teams/bohs.1.jpg",
+        "img/teams/bohs.2.jpg"
+    ],
+    "name": "Bohemians FC",
+    "colors": {
+        "home": [
+            "red",
+            "black"
+        ],
+        "away": [
+            "green",
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/bohs_kit1.gif",
+        "away": "img/teams/jerseys/bohs_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Dean Delany(GK)",
+            "Lee Murphy(GK)",
+            "Derek Pender",
+            "Aidan Price",
+            "Roberto Lopes",
+            "Jack Memery",
+            "Daniel Byrne",
+            "Philip McCabe"
+        ],
+        "midfielders": [
+            "Anto Murphy",
+            "Dave Mulcahy",
+            "Paddy Kavanagh",
+            "Ryan McEvoy",
+            "Craig Walsh",
+            "Stephen Traynor",
+            "Karl Moore",
+            "Keith Buckley",
+            "Kevin Devaney",
+            "Darragh Reynor",
+            "Andy Mulligan",
+            "Jake Hyland"
+        ],
+        "attackers": [
+            "Jason Byrne",
+            "Dinny Corcoran",
+            "Steven Beattie"
+        ]
+    }
+}

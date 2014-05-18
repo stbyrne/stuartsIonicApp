@@ -1,0 +1,60 @@
+{
+    "ground": "Showgrounds", 
+    "capacity": 5500,
+    "manager": "Ian Baraclough",
+    "coach": "Gary Stevens",
+    "description": "Sligo Football Club (Irish: Cumann Peile Ruagairí Shligigh) is a professional Irish football club playing in the Premier Division of the League of Ireland. The club was founded in 1928 and have been in the League of Ireland since 1934. The club is a co-operative venture, owned by the people of Sligo. Sligo have played at The Showgrounds since their inception. They recently won a third FAI Cup in four years and in the season previous to this recent cup win became the 2012 Premier Division Champions, winning the title with two games to spare. In total they have won three league titles, five FAI Cups and two League cups. On 27 February 2012 Sligo had announced a major international sponsorship deal with local car dealers Connollys Volkswagen.",
+    "id": "sligo",
+    "images": [
+        "img/teams/sligo.0.jpg", 
+        "img/teams/sligo.1.jpg",
+        "img/teams/sligo.2.jpg"
+    ],
+    "name": "Sligo Rovers",
+    "colors": {
+        "home": [
+            "red"
+        ],
+        "away": [
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/sligo_kit1.gif",
+        "away": "img/teams/jerseys/sligo_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Gary Rogers(GK)",
+            "Richard Brush(GK)",
+            "Adam Murphy",
+            "Alan Keane",
+            "Gavin Peers",
+            "Evan McMillan",
+            "Ross Gaynor",
+            "Kalen Spillane",
+            "Daniel Ledwith",
+            "Jake Dykesr",
+            "Jeff Henderson",
+            "Gary Boylan",
+            "Regan Donelon"
+        ],
+        "midfielders": [
+            "Joseph Ndo",
+            "John Russell",
+            "Seamus Conneely",
+            "Paul O'Conor",
+            "David Cawley",
+            "Kieran Djilali",
+            "Jordan Loftus",
+            "Liam Flatley"
+        ],
+        "attackers": [
+            "Raffaele Cretaro",
+            "Aaron Greene",
+            "Danny North",
+            "Sean Maguire",
+            "Eric Odhiambo"
+        ]
+    }
+}

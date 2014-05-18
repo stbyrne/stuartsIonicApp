@@ -1,0 +1,84 @@
+<ion-view title="{{team.name}}">
+  <ion-content class="has-header">
+    <h1>{{team.name}}</h1>
+
+<div class="team-images">
+  <img ng-src="{{img}}"
+       class="team"
+       ng-repeat="img in team.images"
+       ng-class="{active:mainImageUrl==img}">
+</div>
+ 
+
+ 
+<p>{{team.description}}</p>
+ 
+<ul class="team-thumbs">
+  <li ng-repeat="img in team.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>
+
+
+
+<ul class="details">
+    <h2>Club details</h2>
+  
+    <li>
+        <dl>
+            <dt>Stadium</dt>
+                <dd>{{team.ground}}</dd>
+            <dt>Capacity</dt>
+                <dd>{{team.capacity}}</dd>
+        
+        </dl>
+    
+    </li>
+    <li>
+        <dl>
+            <dt>Manager</dt>
+                <dd>{{team.manager}}</dd>
+            <dt>Coach</dt>
+                <dd>{{team.coach}}</dd>
+        </dl>
+    
+    </li>
+    <li>
+        <dl>
+            <dt>Home Jersey</dt>
+            
+                <dd ng-repeat="home in team.colors.home" style="background-color:{{home}}">{{home}}</dd>
+        </dl>
+    </li>
+     <li>
+        <dl>
+            <dt>Away Jersey</dt>
+                <dd ng-repeat="away in team.colors.away" style="background-color:{{away}}">{{away}}</dd>
+        </dl>
+    </li>
+    
+    <h2>Playing Squad</h2>
+        
+    <li class="squad">
+        <dl>
+            <dt>Defenders</dt>
+                <dd ng-repeat="defender in team.squad.defenders">{{defender}}</dd>
+        </dl>
+    </li>
+    <li class="squad">
+        <dl>
+            <dt>Midfielders</dt>
+                <dd ng-repeat="midfielder in team.squad.midfielders">{{midfielder}}</dd>
+        </dl>
+    </li>
+    <li class="squad">
+        <dl>
+            <dt>Attackers</dt>
+                <dd ng-repeat="attacker in team.squad.attackers">{{attacker}}</dd>
+        </dl>
+    </li>
+</ul>
+ 
+
+  </ion-content>
+</ion-view>

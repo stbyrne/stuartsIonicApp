@@ -1,0 +1,62 @@
+{
+    "ground": "The Carlisle Grounds", 
+    "capacity": 3185,
+    "manager": "Alan Mathews",
+    "coach": "Barry O'Connor",
+    "description": "Bray Wanderers A.F.C. (Irish: Cumann Peile Fánaithe Bhré) are an Irish football club playing in the Premier Division of the League of Ireland. The club, founded in 1942 and elected to the League in 1985, hails from Bray and play their home matches at the Carlisle Grounds. Club colours are Green and White, and it goes by the nickname Seagulls. The current manager is Alan Mathews. The general manager is Jack O'Neill.",
+    "id": "bray",
+    "images": [
+        "img/teams/bray.0.jpg", 
+        "img/teams/bray.1.jpg",
+        "img/teams/bray.2.jpg"
+    ],
+    "name": "Bray Wanderers",
+    "colors": {
+        "home": [
+            "green",
+            "white"
+        ],
+        "away": [
+            "blue",
+            "yellow"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/bray_kit1.gif",
+        "away": "img/teams/jerseys/bray_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Shane Redmond(GK)",
+            "Stephen McGuinness(GK)",
+            "Gavin Sheridan(GK)",
+            "Danny O'Connor",
+            "Shane O'Connor",
+            "David Webster",
+            "Adam Mitchell",
+            "Niall Cooney",
+            "Jamie McGlynn",
+            "Robert Maloney",
+            "Michael Brown"
+        ],
+        "midfielders": [
+            "David Cassidy",
+            "Gary Curran",
+            "Eric McGill",
+            "Jake Kelly",
+            "Dean Zambra",
+            "Graham Kelly",
+            "Sean Hurley",
+            "Adam Hanlon",
+            "Adam Cox",
+            "Shane Byrne"
+        ],
+        "attackers": [
+            "David Scully",
+            "Shane O'Neill",
+            "Ismahil Akinade",
+            "Philip Nolan",
+            "Ciarán Byrne"
+        ]
+    }
+}

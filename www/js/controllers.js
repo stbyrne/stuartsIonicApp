@@ -3,16 +3,36 @@ angular.module('starter.controllers', [])
 .controller('AppCtrl', function($scope) {
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
+/*.controller('TeamListCtrl', function($scope) {
+  $scope.teams = [
+    { title: 'Athlone', id: 1 },
+    { title: 'Bray', id: 2 },
+    { title: 'Bohs', id: 3 },
+    { title: 'Derry', id: 4 },
+    { title: 'St Pats', id: 5 },
+    { title: 'Shamrock Rovers', id: 6 }
   ];
 })
 
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-})
+.controller('TeamDetailCtrl', function($scope, $stateParams) {
+})*/
+
+.controller('TeamListCtrl', ['$scope', 'Team',
+  function ($scope, Team) {
+      
+    $scope.teams = Team.query();
+ 
+    /*$scope.orderProp = 'age';*/
+  }])
+
+.controller('TeamDetailCtrl', ['$scope', '$stateParams', 'Team',
+    function($scope, $stateParams, Team) {
+        $scope.team = Team.get({teamId:$stateParams.teamId}, function(team){
+            $scope.mainImageUrl = team.images[0];
+        })
+        
+        $scope.setImage = function(imageUrl) {
+            $scope.mainImageUrl = imageUrl;
+        }
+                
+    }]);

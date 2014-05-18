@@ -1,0 +1,58 @@
+{
+    "ground": "Athlone Town Stadium", 
+    "capacity": 5000,
+    "manager": "Mick Cooke",
+    "coach": "Martin Russell",
+    "description": "Athlone Town F.C. (Irish: Cumann Peile Bhaile Áth Luain) is an Irish football club from Athlone, playing in the League of Ireland. The club is the oldest in the League as it was founded in 1887. First elected to the League of Ireland in 1922, they play their home matches in Lissywoollen their new stadium which opened in 2007. The club's colours are blue and black",
+    "id": "athlone",
+    "images": [
+        "img/teams/athlone.0.jpg", 
+        "img/teams/athlone.1.jpg",
+        "img/teams/athlone.2.jpg"
+    ],
+    "name": "Athlone Town FC",
+    "colors": {
+        "home": [
+            "blue",
+            "black"
+        ],
+        "away": [
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/athlone_kit1.gif",
+        "away": "img/teams/jerseys/athlone_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Paul Skinner(GK)",
+            "Craig Sexton(GK)",
+            "Paddy Duncan(GK)",
+            "Stephen Quigley",
+            "Aidan Collins",
+            "Alan Byrne",
+            "Conor McMahon",
+            "Derek Prendergast",
+            "Neil Harney",
+            "Sean Byrne",
+            "David Brookes",
+            "Declan Brennan"
+        ],
+        "midfielders": [
+            "Barry Clancy",
+            "Niall Scullion",
+            "Jason Marks",
+            "Sean Brennan",
+            "James O'Brien",
+            "Luke McCarthy",
+            "Mark Hughes",
+            "Kealan Dillon"
+        ],
+        "attackers": [
+            "Philip Gorman",
+            "Graham Rusk",
+            "Ian Sweeney"
+        ]
+    }
+}

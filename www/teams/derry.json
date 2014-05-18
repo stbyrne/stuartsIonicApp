@@ -1,0 +1,62 @@
+{
+    "ground": "Brandywell Stadium", 
+    "capacity": 7700,
+    "manager": "Roddy Collins",
+    "coach": "Peter Hutton",
+    "description": "Derry City Football Club (Irish: Cumann Peile Chathair Dhoire) is a professional football club based in Derry, Northern Ireland. It plays in the League of Ireland Premier Division. It had spent the majority of its time in the League of Ireland in the Premier Division, the top tier of league football in the Republic of Ireland, but was expelled in November 2009 when it was discovered there were secondary, unofficial contracts with players. It was reinstated a few weeks later but demoted to the First Division, the second tier. The club are the League of Ireland's only participant from Northern Ireland.",
+    "id": "derry",
+    "images": [
+        "img/teams/derry.0.jpg", 
+        "img/teams/derry.1.jpg",
+        "img/teams/derry.2.jpg"
+    ],
+    "name": "Derry City",
+    "colors": {
+        "home": [
+            "red",
+            "white"
+        ],
+        "away": [
+            "yellow",
+            "black"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/derry_kit1.gif",
+        "away": "img/teams/jerseys/derry_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Gerard Doherty(GK)",
+            "Ciaran Gallagher(GK)",
+            "Michael Lynch(GK)",
+            "Shane McEleney",
+            "Ryan McBride",
+            "Roddy Collins Jnr",
+            "David Elebert",
+            "Lee Toland",
+            "Dean Jarvis",
+            "Cliff Byrne",
+            "Aaron Barry"
+        ],
+        "midfielders": [
+            "Barry Molloy",
+            "Danny Ventre",
+            "Patrick McEleney",
+            "Raymond Foy",
+            "Barry McNamee",
+            "Michael Duffy",
+            "Joshua Tracey",
+            "Mark Timlin",
+            "Cormac Burke",
+            "Jon Paul McGovern"
+        ],
+        "attackers": [
+            "Enda Curran",
+            "Rory Patterson",
+            "Ryan Curran",
+            "Tony McNamee",
+            "Mark Stewart"
+        ]
+    }
+}

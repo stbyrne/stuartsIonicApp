@@ -1,0 +1,62 @@
+{
+    "ground": "Turners Cross", 
+    "capacity": 7364,
+    "manager": "John Caulfield",
+    "coach": "TBC",
+    "description": "Cork City Football Club (Irish: Cumann Peile Chathair Chorcaí) is an Irish football team that plays in the League of Ireland Premier Division. Founded and elected to the league in 1984 to continue the long tradition of association football in Cork, City's traditional colours are green and white with red trim, and the crest is a variant of the Cork coat of arms. The club play home games at Turners Cross. It was one of the first clubs in Ireland (and the first in Cork) to field a team of professional footballers. With the progression of professionalism at the club, continued development of the Turner's Cross stadium and the transition to summer football, the club became one of the biggest and best supported clubs in the country. Between 2008 and 2010 however, the club suffered financial hardships and management controversy and entered a period of examinership. Ultimately the club's holding company, Cork City Investments FC Ltd, was wound up by the courts. Club fans however were awarded a licence for a club under the name Cork City FORAS Co-op and entered a team in the next First Division season. The club subsequently re-acquired rights to the name 'Cork City Football Club' from the liquidators of Cork City Investments FC Ltd. Fans highlight the continuity of Cork City FC during this period as the former holding company Cork City Investments FC Ltd. was still in existence during its liquidation period when the name and intellectual property were purchased, and the under-age teams continued to exist under the name while owned and funded by the fans.",
+    "id": "cork",
+    "images": [
+        "img/teams/cork.0.jpg", 
+        "img/teams/cork.1.jpg",
+        "img/teams/cork.2.jpg"
+    ],
+    "name": "Cork City",
+    "colors": {
+        "home": [
+            "green"
+        ],
+        "away": [
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/cork_kit1.gif",
+        "away": "img/teams/jerseys/cork_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Mark McNulty",
+            "Matthew Gledhill",
+            "Kevin O'Brien",
+            "Neal Horgan",
+            "Dan Murray",
+            "Iarfhlaith Davoren",
+            "Jason Forde",
+            "Garry Buckley",
+            "John Dunleavy",
+            "Kevin Mulcahy",
+            "Darren Dennehy"
+        ],
+        "midfielders": [
+            "Liam Kearney",
+            "Darren Murphy",
+            "Colin Healy",
+            "Billy Dennehy",
+            "David O'Leary",
+            "Ian Turner",
+            "Gearóid Morrissey",
+            "Andy O'Connell",
+            "Brian Lenihan"
+        ],
+        "attackers": [
+            "Michael Rafter",
+            "Danny Morrissey",
+            "Robert Lehane",
+            "Anthony Elding",
+            "Mark O'Sullivan"
+        ]
+    }
+}
+
+
+

@@ -1,0 +1,57 @@
+{
+    "ground": "Tallaght Stadium", 
+    "capacity": 6000,
+    "manager": "Trevor Crolly",
+    "coach": "John Gill",
+    "description": "Shamrock Rovers Football Club (Irish: Cumann Peile Ruagairí na Seamróige) is a professional football club from Dublin, Ireland. The club's team competes in the Premier Division of the League of Ireland and it is the most successful club in the Republic of Ireland.[3] The club has won the League of Ireland title a record 17 times and the FAI Cup a record 24 times.[4] Shamrock Rovers have supplied more players to the Republic of Ireland national football team (62) than any other club. In All-Ireland competitions, such as the Intercity Cup, they hold the record for winning the most titles, having won seven cups overall.",
+    "id": "shamrock",
+    "images": [
+        "img/teams/shamrock.0.jpg", 
+        "img/teams/shamrock.1.jpg",
+        "img/teams/shamrock.2.jpg"
+    ],
+    "name": "Shamrock Rovers",
+    "colors": {
+        "home": [
+            "green",
+            "white"
+        ],
+        "away": [
+            "gold",
+            "black"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/shamrock_kit1.gif",
+        "away": "img/teams/jerseys/shamrock_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Barry Murphy(GK)",
+            "Craig Hyland(GK)",
+            "Conor Kenna",
+            "Jason McGuinness",
+            "Simon Madden",
+            "David O'Connor",
+            "Luke Byrne",
+            "Rob Cornwall",
+            "Sean Heaney"
+        ],
+        "midfielders": [
+            "Shane Robinson",
+            "Sean O'Connor",
+            "Ronan Finn",
+            "Gary McCabe",
+            "Robert Bayly",
+            "Kieran Waters",
+            "Ryan Brennan",
+            "Stephen McPhail"
+        ],
+        "attackers": [
+            "Eamon Zayed",
+            "Ciaran Kilduff",
+            "Karl Sheppard",
+            "Dean Kelly"
+        ]
+    }
+}

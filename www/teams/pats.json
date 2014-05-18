@@ -1,0 +1,61 @@
+{
+    "ground": "Richmond Park,", 
+    "capacity": 5340,
+    "manager": "Liam Buckley",
+    "coach": "Martin Russell",
+    "description": "St Patrick's Athletic F.C. (Irish: Cumann Peile Lúthchleas Phádraig Naofa) is an Irish football club, based in Inchicore, Dublin, that plays in the Irish Premier Division. Founded in May 1929, they played originally in the Phoenix Park but they moved to their current ground Richmond Park in 1930. St Patricks Athletic have won some trophies in Irish Club Football, including eight League Titles, the fifth most in Irish Football, as well as two FAI Cups and two League Cups. The current manager is Liam Buckley, who is in his second spell in charge at the club after replacing Pete Mahon in 2011. St Patricks Athletic are the current Champions of Ireland after winning the 2013 Championship. The club graduated through the ranks of Irish football to become a hugely successful Leinster Senior League club and they duly took their place in the League of Ireland in 1951 and won the Championship at their first attempt. The clubs glory years came in the 1950s and 1990s when they won 7 of their 9 league titles. The club also have the record for never having been relegated from the Premier Division . The club play in red and white colours, and their nicknames include The Saints, Supersaints and Pats. The Saints also have a lot of Dublin Derby games with the likes of Shelbourne, Shamrock Rovers and Bohemians.",
+    "id": "pats",
+    "images": [
+        "img/teams/pats.0.jpg", 
+        "img/teams/pats.1.jpg",
+        "img/teams/pats.2.jpg"
+    ],
+    "name": "St Patricks Athletic",
+    "colors": {
+        "home": [
+            "red",
+            "white"
+        ],
+        "away": [
+            "navy",
+            "lightblue"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/pats_kit1.gif",
+        "away": "img/teams/jerseys/pats_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Brendan Clarke(GK)",
+            "Pat Jennings(GK)",
+            "Rene Gilmartin",
+            "Ken Oman",
+            "Ger O'Brien",
+            "Kenny Browne",
+            "Ian Bermingham",
+            "Derek Foran",
+            "Lorcan Fitzgerald",
+            "Sean Hoare"
+        ],
+        "midfielders": [
+            "Keith Fahey",
+            "James Chambers",
+            "Conan Byrne",
+            "Killian Brennan",
+            "Greg Bolger",
+            "Conor McCormack",
+            "Chris Forrester",
+            "Lee Lynch",
+            "Marco Chindear"
+        ],
+        "attackers": [
+            "Daryl Kavanagh",
+            "Christy Fagan",
+            "Sam Verdon",
+            "Peter Durrad",
+            "Mark Quigley",
+            "Eric Odhiambo"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "age":1887, 
+        "id": "athlone", 
+        "imageUrl": "img/teams/athlone.0.jpg", 
+        "name": "Athlone Town", 
+        "nickname": "The Town"
+    },
+    {
+        "age":1890, 
+        "id": "bohs", 
+        "imageUrl": "img/teams/bohs.0.jpg", 
+        "name": "Bohemians", 
+        "nickname": "The Gypsies"
+    },
+    {
+        "age":1942, 
+        "id": "bray", 
+        "imageUrl": "img/teams/bray.0.jpg", 
+        "name": "Bray Wanderers", 
+        "nickname": "The Seagulls"
+    },
+    {
+        "age":1984, 
+        "id": "cork", 
+        "imageUrl": "img/teams/cork.0.jpg", 
+        "name": "Cork City", 
+        "nickname": "City"
+    },
+    {
+        "age":1928, 
+        "id": "derry", 
+        "imageUrl": "img/teams/derry.0.jpg", 
+        "name": "Derry City", 
+        "nickname": "The Candystripes"
+    },
+    {
+        "age":1975, 
+        "id": "drogheda", 
+        "imageUrl": "img/teams/drogheda.0.jpg", 
+        "name": "Drogheda United", 
+        "nickname": "The Drogs"
+    },
+    {
+        "age":1903, 
+        "id": "dundalk", 
+        "imageUrl": "img/teams/dundalk.0.jpg", 
+        "name": "Dundalk FC", 
+        "nickname": "The Lilywhites"
+    },
+    {
+        "age":1937, 
+        "id": "limerick", 
+        "imageUrl": "img/teams/limerick.0.jpg", 
+        "name": "Limerick FC", 
+        "nickname": "The Blues"
+    },
+    {
+        "age":1901, 
+        "id": "shamrock", 
+        "imageUrl": "img/teams/shamrock.0.jpg", 
+        "name": "Shamrock Rovers", 
+        "nickname": "The Hoops"
+    },
+    {
+        "age":1928, 
+        "id": "sligo", 
+        "imageUrl": "img/teams/sligo.0.jpg", 
+        "name": "Sligo Rovers", 
+        "nickname": "The Bit O Red"
+    },
+    {
+        "age":1929, 
+        "id": "pats", 
+        "imageUrl": "img/teams/pats.0.jpg", 
+        "name": "St Patricks Athletic", 
+        "nickname": "The Saints"
+    },
+    {
+        "age":1895, 
+        "id": "ucd", 
+        "imageUrl": "img/teams/ucd.0.jpg", 
+        "name": "U.C.D. FC", 
+        "nickname": "The Students"
+    }
+    
+]

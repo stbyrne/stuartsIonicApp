@@ -1,0 +1,59 @@
+{
+    "ground": "The UCD Bowl", 
+    "capacity": 2500,
+    "manager": "Aaron Callaghan",
+    "coach": "Colin O'Neill",
+    "description": "University College Dublin Association Football Club (Irish: Cumann Peile Choláiste na hOllscoile, Baile Átha Cliath), known commonly as UCD, is the football team of University College Dublin. They play in the League of Ireland. The club, founded in 1895 was elected to the league in 1979 under the management of Dr. Tony O'Neill. Since the 2008 season they have played at the UCD Bowl, also home to the college's rugby team. 'The Students' play in sky blue and navy.",
+    "id": "ucd",
+    "images": [
+        "img/teams/ucd.0.jpg", 
+        "img/teams/ucd.1.jpg",
+        "img/teams/ucd.2.jpg"
+    ],
+    "name": "U.C.D.",
+    "colors": {
+        "home": [
+            "lightblue",
+            "navy"
+        ],
+        "away": [
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/ucd_kit1.gif",
+        "away": "img/teams/jerseys/ucd_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Ger Barron(GK)",
+            "Mark McGinley(GK)",
+            "Conor O'Donnell(GK)",
+            "Ian Ryan",
+            "Gareth Matthews",
+            "Tomas Boyle",
+            "Mark Langtry",
+            "Michael Barker",
+            "Hugh Douglas",
+            "Michael Scott",
+            "Sean Coyne"
+        ],
+        "midfielders": [
+            "Chris Mulhall",
+            "Robbie Creevy",
+            "Robbie Benson",
+            "Tom O'Halloran",
+            "Gary Burke",
+            "James Kavanagh",
+            "Barry McCabe",
+            "Dwayne Wilson",
+            "Ayman Ben Mohamed",
+            "Colm Crowe"
+        ],
+        "attackers": [
+            "Dean Clarke",
+            "Samir Belhout",
+            "Cillian Morrison"
+        ]
+    }
+}

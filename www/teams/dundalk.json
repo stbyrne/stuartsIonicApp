@@ -1,0 +1,60 @@
+{
+    "ground": "Oriel Park,", 
+    "capacity": 4500,
+    "manager": "Stephen Kenny",
+    "coach": "Vinny Perth",
+    "description": "Dundalk Football Club (Irish: Cumann Peile Dhún Dealgan) is a professional Irish football club based in Dundalk, County Louth. The club currently play in the Premier Division of the League of Ireland. Founded in 1903, they are the second most successful team, in terms of trophies won, in the history of the League of Ireland. The traditional colours of the club are white jerseys with black shorts. Due to their white jerseys, they have been nicknamed the Lilywhites. They play their home games in Oriel Park.",
+    "id": "dundalk",
+    "images": [
+        "img/teams/dundalk.0.jpg", 
+        "img/teams/dundalk.1.jpg",
+        "img/teams/dundalk.2.jpg"
+    ],
+    "name": "Dundalk FC",
+    "colors": {
+        "home": [
+            "white",
+            "black"
+        ],
+        "away": [
+            "black",
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/dundalk_kit1.gif",
+        "away": "img/teams/jerseys/dundalk_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Gabriel Sava(GK)",
+            "Peter Cherrie(GK)",
+            "Mark Rossiter",
+            "Simon Kelly",
+            "Brian Gartland",
+            "Dane Massey",
+            "Andrew Boyle",
+            "Sean Gannon",
+            "Manuel Kaguako"
+        ],
+        "midfielders": [
+            "Ruaidhri Higgins",
+            "Stephen O'Donnell",
+            "Darren Meenan",
+            "Keith Ward",
+            "Chris Shields",
+            "Daryl Horgan",
+            "John Mountney",
+            "Richard Towell",
+            "Conor McDonald",
+            "Ciaran O'Connor",
+            "George Poynton"
+        ],
+        "attackers": [
+            "Pat Hoban",
+            "David McMillan",
+            "Mark Griffin",
+            "Kurtis Byrne"
+        ]
+    }
+}

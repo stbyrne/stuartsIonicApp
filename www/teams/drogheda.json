@@ -1,0 +1,57 @@
+{
+    "ground": "United Park", 
+    "capacity": 2000,
+    "manager": "Robbie Horgan",
+    "coach": "TBC",
+    "description": "Drogheda United Football Club (Irish: Cumann Peile Dhroichead Átha Aontaithe) is an Irish football club currently playing in the Premier Division of the League of Ireland. The club comes from Drogheda, County Louth, and, since 1979, plays its home matches at United Park. The current club is the amalgamation of two former clubs in the town: Drogheda United, a non-league club founded in 1919;and Drogheda F.C., founded in 1962. The clubs merged their operations to form the current club in 1975 and have achieved success since 2005 by winning two Setanta Sports Cups, an FAI Cup, and their first league title, the 2007 League of Ireland.",
+    "id": "drogheda",
+    "images": [
+        "img/teams/drogheda.0.jpg", 
+        "img/teams/drogheda.1.jpg",
+        "img/teams/drogheda.2.jpg"
+    ],
+    "name": "Drogheda United",
+    "colors": {
+        "home": [
+            "maroon",
+            "lightblue"
+        ],
+        "away": [
+            "white"
+        ]
+    },
+    "jersey": {
+        "home": "img/teams/jerseys/drogheda_kit1.gif",
+        "away": "img/teams/jerseys/drogheda_kit2.gif"
+    },
+    "squad": {
+        "defenders": [
+            "Dave Ryan(GK)",
+            "Michael Schlingermann(GK)",
+            "Dylan Connolly(GK)",
+            "Alan McNally",
+            "Shane Grimes",
+            "Michael Daly",
+            "Ciarán McGuigan",
+            "Paul Andrews",
+            "Ciaran O'Connor"
+        ],
+        "midfielders": [
+            "Paul Crowley",
+            "Cathal Brady",
+            "Daire Doyle",
+            "Stephen Maher",
+            "Eric Foley",
+            "Austin McCann",
+            "Gavin Brennan",
+            "Gavan Holohan",
+            "Sean O'Connor"
+        ],
+        "attackers": [
+            "Gary O'Neill",
+            "Declan O'Brien",
+            "Philip Hughes",
+            "Carl Walshe"
+        ]
+    }
+}
